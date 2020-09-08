@@ -1,4 +1,4 @@
-# tablut
+# Tablut
 ## Game Rules 
 The objective of the white pieces is to get the King piece to the edge of the board. 
 The black pieces try to capture the king before it reaches the edge. The 16 black pieces 
